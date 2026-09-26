@@ -1,0 +1,9 @@
+{
+  "clinic_name": "Dunbar Veterinary Clinic",
+  "opening_hours": "09:00 - 17:00",
+  "max_daily_appointments": 12,
+  "database": {
+    "type": "local_file",
+    "enabled": true
+  }
+}
