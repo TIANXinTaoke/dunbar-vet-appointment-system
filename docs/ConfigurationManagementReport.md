@@ -26,3 +26,10 @@ All items tracked under version control:
 6. Review GitHub repository to confirm all files are updated.
 
 ### 5. Repository Structure
+
+### 8. Branching Strategy
+For this assignment, main branch is used as the stable release branch. All development work was completed directly on main branch for this small‑scale individual assignment. In larger real‑world projects, feature branches would be created for each new function before merging into main. All commits have descriptive messages to record each change.
+
+### 9. Evidence
+Evidence includes GitHub repository link, commit‑history screenshots and unit‑test run screenshot.
+GitHub Repository: https://github.com/TIANXinTaoke/dunbar-vet-appointment-system
